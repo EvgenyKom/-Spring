@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 13 01:08:01 KRAT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015c-9d7d-ba88-0000059a0d38 
+on database directory D:\Java projects\Spring tutorial\target\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/%d0%95%d0%b2%d0%b3%d0%b5%d0%bd%d0%b8%d0%b9/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_92-b14
+user.dir=D:\Java projects\Spring tutorial
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
